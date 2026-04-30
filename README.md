@@ -1,4 +1,5 @@
 🌍 Pandemic & Healthcare Analysis
+
 🧭 Problem Statement
 
 The COVID-19 pandemic affected countries differently, with some nations experiencing high mortality while others managed better outcomes. This project explores how healthcare infrastructure, ICU capacity, testing, and vaccination influenced COVID-19 impact across countries.
